@@ -23,17 +23,18 @@ namespace ProspectiveHireTest.Controls
 
         private void LinkRepeater_ItemDataBound(object sender, RepeaterItemEventArgs e)
         {
-            KeyValuePair<string, string> keyValuePair = (KeyValuePair<string, string>)e.Item.DataItem;
+            Utils.Hyperlink keyValuePair = (Utils.Hyperlink)e.Item.DataItem;
 
             HyperLink hyperLink = (HyperLink)e.Item.FindControl("LeftNavHyperLink");
-            hyperLink.Text = keyValuePair.Key;
-            hyperLink.NavigateUrl = keyValuePair.Value;
+            hyperLink.Text = keyValuePair.name;
+            hyperLink.Target = keyValuePair.target;
+            hyperLink.NavigateUrl = keyValuePair.url;
         }
 
-        private Dictionary<string, string> GetLinks()
+        private List<Utils.Hyperlink> GetLinks()
         {
-            Dictionary<string, string> links = new Dictionary<string, string>();
-            
+            List<Utils.Hyperlink> links = new List<Utils.Hyperlink>();
+
             XDocument xmlFile = XDocument.Load(string.Format("{0}/Content/LeftNav.xml", 
                 Request.Url.GetLeftPart(UriPartial.Authority)));
 
@@ -43,7 +44,7 @@ namespace ProspectiveHireTest.Controls
 
             foreach (XElement link in query)
             {
-                links.Add(link.Attribute("name").Value, link.Attribute("url").Value);
+                links.Add(new Utils.Hyperlink { name = link.Attribute("name").Value, url = link.Attribute("url").Value, target = link.Attribute("target").Value });
             } 
 
             return links;

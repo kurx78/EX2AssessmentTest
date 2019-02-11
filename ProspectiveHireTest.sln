@@ -1,13 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProspectiveHireTest", "ProspectiveHireTest\ProspectiveHireTest.csproj", "{86C1AD0E-A7DA-4EBE-9AB6-DD3255D9A596}"
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "ProspectiveHireTest.Database.Sql2005", "ProspectiveHireTest.Database.Sql2005\ProspectiveHireTest.Database.Sql2005.sqlproj", "{CBC2CE72-72EF-486F-8C03-2E6263D12CDF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProspectiveHireTest.Test", "ProspectiveHireTest.Test\ProspectiveHireTest.Test.csproj", "{4CA58C45-1084-4E53-9E70-16885D06058D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProspectiveHireTest.DataAccess", "ProspectiveHireTest.DataAccess\ProspectiveHireTest.DataAccess.csproj", "{E9D557D8-2D48-45F6-8BEA-22865A2A843F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,8 +31,15 @@ Global
 		{4CA58C45-1084-4E53-9E70-16885D06058D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CA58C45-1084-4E53-9E70-16885D06058D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4CA58C45-1084-4E53-9E70-16885D06058D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9D557D8-2D48-45F6-8BEA-22865A2A843F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9D557D8-2D48-45F6-8BEA-22865A2A843F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9D557D8-2D48-45F6-8BEA-22865A2A843F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9D557D8-2D48-45F6-8BEA-22865A2A843F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B38987AB-AC2A-4838-B29E-E3A13EF03DF0}
 	EndGlobalSection
 EndGlobal

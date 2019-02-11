@@ -6,7 +6,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" >
 <head runat="server">
     <title>American Presidents, Inc.</title>
-    <link href="/Styles/Global.css" rel="stylesheet" type="text/css" />       
+    <link href="/Styles/Global.css" rel="stylesheet" type="text/css" />    
     <asp:ContentPlaceHolder ID="head" runat="server"></asp:ContentPlaceHolder>
 </head>
 <body>

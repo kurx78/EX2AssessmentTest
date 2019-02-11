@@ -35,7 +35,7 @@ namespace ProspectiveHireTest
                 graphics.DrawString("American Presidents, Inc. 2009", 
                     new Font("Arial", 10, FontStyle.Bold), new SolidBrush(Color.White),
                     new PointF(10, 10), new StringFormat());
-                bitmap.RotateFlip(RotateFlipType.Rotate180FlipX);
+                //bitmap.RotateFlip(RotateFlipType.Rotate180FlipX);
                 ImageCodecInfo imageCodecInfo = ImageCodecInfo.GetImageEncoders().Single(predicateImageCodeInfo => predicateImageCodeInfo.MimeType == "image/jpeg");
                 EncoderParameters encoderParameters = new EncoderParameters(1);
                 encoderParameters.Param[0] = new EncoderParameter(Encoder.Quality, 100l);

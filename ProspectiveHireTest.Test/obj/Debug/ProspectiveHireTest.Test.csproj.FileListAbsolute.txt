@@ -21,3 +21,13 @@ D:\Projects\ProspectsTests\ProspectiveHireTest VS 2013\ProspectiveHireTest.Test\
 D:\Projects\ProspectsTests\ProspectiveHireTest VS 2013\ProspectiveHireTest.Test\bin\Debug\WatiN.Core.dll
 D:\Projects\ProspectsTests\ProspectiveHireTest VS 2013\ProspectiveHireTest.Test\obj\Debug\ProspectiveHireTest.Test.dll
 D:\Projects\ProspectsTests\ProspectiveHireTest VS 2013\ProspectiveHireTest.Test\obj\Debug\ProspectiveHireTest.Test.pdb
+D:\Desarrollo\EX2AssessmentTest\EX2AssessmentTest\ProspectiveHireTest.Test\bin\Debug\ProspectiveHireTest.Test.dll
+D:\Desarrollo\EX2AssessmentTest\EX2AssessmentTest\ProspectiveHireTest.Test\bin\Debug\ProspectiveHireTest.Test.pdb
+D:\Desarrollo\EX2AssessmentTest\EX2AssessmentTest\ProspectiveHireTest.Test\bin\Debug\Interop.SHDocVw.dll
+D:\Desarrollo\EX2AssessmentTest\EX2AssessmentTest\ProspectiveHireTest.Test\bin\Debug\nunit.framework.dll
+D:\Desarrollo\EX2AssessmentTest\EX2AssessmentTest\ProspectiveHireTest.Test\bin\Debug\WatiN.Core.dll
+D:\Desarrollo\EX2AssessmentTest\EX2AssessmentTest\ProspectiveHireTest.Test\bin\Debug\Microsoft.mshtml.dll
+D:\Desarrollo\EX2AssessmentTest\EX2AssessmentTest\ProspectiveHireTest.Test\obj\Debug\ProspectiveHireTest.Test.csproj.CoreCompileInputs.cache
+D:\Desarrollo\EX2AssessmentTest\EX2AssessmentTest\ProspectiveHireTest.Test\obj\Debug\ProspectiveHireTest.Test.csproj.CopyComplete
+D:\Desarrollo\EX2AssessmentTest\EX2AssessmentTest\ProspectiveHireTest.Test\obj\Debug\ProspectiveHireTest.Test.dll
+D:\Desarrollo\EX2AssessmentTest\EX2AssessmentTest\ProspectiveHireTest.Test\obj\Debug\ProspectiveHireTest.Test.pdb

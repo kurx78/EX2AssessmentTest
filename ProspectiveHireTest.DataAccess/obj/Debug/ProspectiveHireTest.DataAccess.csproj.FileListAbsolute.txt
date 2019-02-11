@@ -1,0 +1,5 @@
+D:\Desarrollo\EX2AssessmentTest\EX2AssessmentTest\ProspectiveHireTest.DataAccess\bin\Debug\ProspectiveHireTest.DataAccess.dll
+D:\Desarrollo\EX2AssessmentTest\EX2AssessmentTest\ProspectiveHireTest.DataAccess\bin\Debug\ProspectiveHireTest.DataAccess.pdb
+D:\Desarrollo\EX2AssessmentTest\EX2AssessmentTest\ProspectiveHireTest.DataAccess\obj\Debug\ProspectiveHireTest.DataAccess.csproj.CoreCompileInputs.cache
+D:\Desarrollo\EX2AssessmentTest\EX2AssessmentTest\ProspectiveHireTest.DataAccess\obj\Debug\ProspectiveHireTest.DataAccess.dll
+D:\Desarrollo\EX2AssessmentTest\EX2AssessmentTest\ProspectiveHireTest.DataAccess\obj\Debug\ProspectiveHireTest.DataAccess.pdb

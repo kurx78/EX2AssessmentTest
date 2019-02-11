@@ -12,7 +12,7 @@
 		</CustomData>
 		<CustomData Category="Reference" Type="Assembly">
 			<Metadata Name="LogicalName" Value="dbpProjectName.dll" />
-			<Metadata Name="FileName" Value="D:\PROJECTS\PROSPECTSTESTS\PROSPECTIVEHIRETEST VS 2013\PROSPECTIVEHIRETEST.DATABASE.SQL2005\OBJ\DEBUG\DBPPROJECTNAME.DLL" />
+			<Metadata Name="FileName" Value="D:\DESARROLLO\EX2ASSESSMENTTEST\EX2ASSESSMENTTEST\PROSPECTIVEHIRETEST.DATABASE.SQL2005\OBJ\DEBUG\DBPPROJECTNAME.DLL" />
 			<Metadata Name="AssemblyName" Value="dbpProjectName" />
 			<Metadata Name="PermissionSet" Value="SAFE" />
 			<Metadata Name="Owner" Value="" />
@@ -20,7 +20,7 @@
 			<Metadata Name="IsVisible" Value="True" />
 			<Metadata Name="IsModelAware" Value="True" />
 			<Metadata Name="SkipCreationIfEmpty" Value="True" />
-			<Metadata Name="AssemblySymbolsName" Value="D:\Projects\ProspectsTests\ProspectiveHireTest VS 2013\ProspectiveHireTest.Database.Sql2005\obj\Debug\dbpProjectName.pdb" />
+			<Metadata Name="AssemblySymbolsName" Value="D:\Desarrollo\EX2AssessmentTest\EX2AssessmentTest\ProspectiveHireTest.Database.Sql2005\obj\Debug\dbpProjectName.pdb" />
 		</CustomData>
 		<CustomData Category="SqlCmdVariables" Type="SqlCmdVariable" />
 	</Header>
@@ -42,6 +42,34 @@
 					<References ExternalSource="BuiltIns" Name="[PRIMARY]" />
 				</Entry>
 			</Relationship>
+		</Element>
+		<Element Type="SqlProcedure" Name="[dbo].[GeneratePresidentsXML]">
+			<Property Name="BodyScript">
+				<Value><![CDATA[ 
+  BEGIN 
+      SET nocount ON; 
+
+      SELECT NAME 
+      FROM   [dbo].[Presidents]
+      FOR xml path ('President') 
+  END]]></Value>
+			</Property>
+			<Property Name="IsAnsiNullsOn" Value="True" />
+			<Relationship Name="BodyDependencies">
+				<Entry />
+				<Entry />
+			</Relationship>
+			<Relationship Name="Schema">
+				<Entry>
+					<References ExternalSource="BuiltIns" Name="[dbo]" />
+				</Entry>
+			</Relationship>
+			<Annotation Type="SysCommentsObjectAnnotation">
+				<Property Name="Length" Value="174" />
+				<Property Name="StartLine" Value="1" />
+				<Property Name="StartColumn" Value="1" />
+				<Property Name="HeaderContents" Value="CREATE PROCEDURE GeneratePresidentsXML&#xD;&#xA;AS" />
+			</Annotation>
 		</Element>
 	</Model>
 </DataSchemaModel>
