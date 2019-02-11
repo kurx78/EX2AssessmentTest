@@ -1,0 +1,28 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Main.master.cs" Inherits="ProspectiveHireTest.Main" %>
+<%@ Register src="/Controls/LeftNav.ascx" tagname="LeftNav" tagprefix="uc1" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <title>American Presidents, Inc.</title>
+    <link href="/Styles/Global.css" rel="stylesheet" type="text/css" />       
+    <asp:ContentPlaceHolder ID="head" runat="server"></asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <div class="header">American Presidents, Inc.</div>
+        <div class="leftNav">
+            <uc1:LeftNav ID="PageLeftNav" runat="server" />
+        </div>
+        <div class="mainContent">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
+        </div>    
+        <div class="footer">
+            American Presidents, Inc. &copy; <span id="currentYearSpan"></span>
+        </div>    
+    </div>
+    </form>
+</body>
+</html>

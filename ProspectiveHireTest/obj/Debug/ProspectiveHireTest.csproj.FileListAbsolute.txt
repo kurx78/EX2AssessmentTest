@@ -1,0 +1,15 @@
+C:\Projects\EX2\ProspectiveHireTest\ProspectiveHireTest\bin\ProspectiveHireTest.dll
+C:\Projects\EX2\ProspectiveHireTest\ProspectiveHireTest\bin\ProspectiveHireTest.pdb
+C:\Projects\EX2\ProspectiveHireTest\ProspectiveHireTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\EX2\ProspectiveHireTest\ProspectiveHireTest\obj\Debug\ProspectiveHireTest.dll
+C:\Projects\EX2\ProspectiveHireTest\ProspectiveHireTest\obj\Debug\ProspectiveHireTest.pdb
+D:\Projects\ProspectsTests\ProspectiveHireTest\ProspectiveHireTest\bin\ProspectiveHireTest.dll
+D:\Projects\ProspectsTests\ProspectiveHireTest\ProspectiveHireTest\bin\ProspectiveHireTest.pdb
+D:\Projects\ProspectsTests\ProspectiveHireTest\ProspectiveHireTest\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\ProspectsTests\ProspectiveHireTest\ProspectiveHireTest\obj\Debug\ProspectiveHireTest.dll
+D:\Projects\ProspectsTests\ProspectiveHireTest\ProspectiveHireTest\obj\Debug\ProspectiveHireTest.pdb
+D:\Projects\ProspectsTests\ProspectiveHireTest VS 2013\ProspectiveHireTest\bin\ProspectiveHireTest.dll.config
+D:\Projects\ProspectsTests\ProspectiveHireTest VS 2013\ProspectiveHireTest\bin\ProspectiveHireTest.dll
+D:\Projects\ProspectsTests\ProspectiveHireTest VS 2013\ProspectiveHireTest\bin\ProspectiveHireTest.pdb
+D:\Projects\ProspectsTests\ProspectiveHireTest VS 2013\ProspectiveHireTest\obj\Debug\ProspectiveHireTest.dll
+D:\Projects\ProspectsTests\ProspectiveHireTest VS 2013\ProspectiveHireTest\obj\Debug\ProspectiveHireTest.pdb

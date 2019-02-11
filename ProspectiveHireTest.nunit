@@ -1,0 +1,7 @@
+﻿<NUnitProject>
+  <Settings activeconfig="Debug" />
+  <Config name="Debug" configfile="ProspectiveHireTest.nunit.config" binpathtype="Auto">
+    <assembly path="ProspectiveHireTest.Test\bin\Debug\ProspectiveHireTest.Test.dll" />
+  </Config>
+  <Config name="Release" binpathtype="Auto" />
+</NUnitProject>

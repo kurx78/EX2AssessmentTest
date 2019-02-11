@@ -1,0 +1,9 @@
+D:\Projects\ProspectsTests\ProspectiveHireTest VS 2013\ProspectiveHireTest.Database.Sql2005\bin\Debug\ProspectiveHireTest.Database.Sql2005.dacpac
+D:\Projects\ProspectsTests\ProspectiveHireTest VS 2013\ProspectiveHireTest.Database.Sql2005\bin\Debug\dbpProjectName.dll
+D:\Projects\ProspectsTests\ProspectiveHireTest VS 2013\ProspectiveHireTest.Database.Sql2005\bin\Debug\dbpProjectName.pdb
+D:\Projects\ProspectsTests\ProspectiveHireTest VS 2013\ProspectiveHireTest.Database.Sql2005\obj\Debug\Model.xml
+D:\Projects\ProspectsTests\ProspectiveHireTest VS 2013\ProspectiveHireTest.Database.Sql2005\obj\Debug\refactor.xml
+D:\Projects\ProspectsTests\ProspectiveHireTest VS 2013\ProspectiveHireTest.Database.Sql2005\obj\Debug\postdeploy.sql
+D:\Projects\ProspectsTests\ProspectiveHireTest VS 2013\ProspectiveHireTest.Database.Sql2005\obj\Debug\predeploy.sql
+D:\Projects\ProspectsTests\ProspectiveHireTest VS 2013\ProspectiveHireTest.Database.Sql2005\obj\Debug\dbpProjectName.dll
+D:\Projects\ProspectsTests\ProspectiveHireTest VS 2013\ProspectiveHireTest.Database.Sql2005\obj\Debug\dbpProjectName.pdb

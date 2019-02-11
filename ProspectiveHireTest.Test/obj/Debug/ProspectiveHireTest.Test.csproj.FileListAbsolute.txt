@@ -1,0 +1,23 @@
+C:\Projects\EX2\ProspectiveHireTest\ProspectiveHireTest.Test\bin\Debug\ProspectiveHireTest.Test.dll
+C:\Projects\EX2\ProspectiveHireTest\ProspectiveHireTest.Test\bin\Debug\ProspectiveHireTest.Test.pdb
+C:\Projects\EX2\ProspectiveHireTest\ProspectiveHireTest.Test\bin\Debug\Interop.SHDocVw.dll
+C:\Projects\EX2\ProspectiveHireTest\ProspectiveHireTest.Test\bin\Debug\nunit.framework.dll
+C:\Projects\EX2\ProspectiveHireTest\ProspectiveHireTest.Test\bin\Debug\WatiN.Core.dll
+C:\Projects\EX2\ProspectiveHireTest\ProspectiveHireTest.Test\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\EX2\ProspectiveHireTest\ProspectiveHireTest.Test\obj\Debug\ProspectiveHireTest.Test.dll
+C:\Projects\EX2\ProspectiveHireTest\ProspectiveHireTest.Test\obj\Debug\ProspectiveHireTest.Test.pdb
+D:\Projects\ProspectsTests\ProspectiveHireTest\ProspectiveHireTest.Test\bin\Debug\ProspectiveHireTest.Test.dll
+D:\Projects\ProspectsTests\ProspectiveHireTest\ProspectiveHireTest.Test\bin\Debug\ProspectiveHireTest.Test.pdb
+D:\Projects\ProspectsTests\ProspectiveHireTest\ProspectiveHireTest.Test\bin\Debug\Interop.SHDocVw.dll
+D:\Projects\ProspectsTests\ProspectiveHireTest\ProspectiveHireTest.Test\bin\Debug\nunit.framework.dll
+D:\Projects\ProspectsTests\ProspectiveHireTest\ProspectiveHireTest.Test\bin\Debug\WatiN.Core.dll
+D:\Projects\ProspectsTests\ProspectiveHireTest\ProspectiveHireTest.Test\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\ProspectsTests\ProspectiveHireTest\ProspectiveHireTest.Test\obj\Debug\ProspectiveHireTest.Test.dll
+D:\Projects\ProspectsTests\ProspectiveHireTest\ProspectiveHireTest.Test\obj\Debug\ProspectiveHireTest.Test.pdb
+D:\Projects\ProspectsTests\ProspectiveHireTest VS 2013\ProspectiveHireTest.Test\bin\Debug\ProspectiveHireTest.Test.dll
+D:\Projects\ProspectsTests\ProspectiveHireTest VS 2013\ProspectiveHireTest.Test\bin\Debug\ProspectiveHireTest.Test.pdb
+D:\Projects\ProspectsTests\ProspectiveHireTest VS 2013\ProspectiveHireTest.Test\bin\Debug\Interop.SHDocVw.dll
+D:\Projects\ProspectsTests\ProspectiveHireTest VS 2013\ProspectiveHireTest.Test\bin\Debug\nunit.framework.dll
+D:\Projects\ProspectsTests\ProspectiveHireTest VS 2013\ProspectiveHireTest.Test\bin\Debug\WatiN.Core.dll
+D:\Projects\ProspectsTests\ProspectiveHireTest VS 2013\ProspectiveHireTest.Test\obj\Debug\ProspectiveHireTest.Test.dll
+D:\Projects\ProspectsTests\ProspectiveHireTest VS 2013\ProspectiveHireTest.Test\obj\Debug\ProspectiveHireTest.Test.pdb

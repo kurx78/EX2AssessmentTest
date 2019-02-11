@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<links>
+  <link name="Home" url="/" isActive="true"></link>
+  <link name="Presidents" url="/Presidents.aspx" isActive="true"></link>
+  <link name="Vice Presidents" url="/VicePresidents.aspx" isActive="false"></link>
+  <link name="History" url="/History.aspx" isActive="true"></link>
+  <link name="About Us" url="/AbuotUs.aspx" isActive="true"></link>
+</links>
